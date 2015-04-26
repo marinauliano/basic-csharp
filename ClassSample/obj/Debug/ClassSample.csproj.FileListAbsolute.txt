@@ -1,0 +1,5 @@
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ClassSample\bin\Debug\ClassSample.exe.config
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ClassSample\bin\Debug\ClassSample.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ClassSample\bin\Debug\ClassSample.pdb
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ClassSample\obj\Debug\ClassSample.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ClassSample\obj\Debug\ClassSample.pdb

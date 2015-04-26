@@ -1,0 +1,5 @@
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Strings\bin\Debug\Strings.exe.config
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Strings\bin\Debug\Strings.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Strings\bin\Debug\Strings.pdb
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Strings\obj\Debug\Strings.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Strings\obj\Debug\Strings.pdb

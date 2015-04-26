@@ -1,0 +1,5 @@
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Arrays\bin\Debug\Arrays.exe.config
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Arrays\bin\Debug\Arrays.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Arrays\bin\Debug\Arrays.pdb
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Arrays\obj\Debug\Arrays.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Arrays\obj\Debug\Arrays.pdb

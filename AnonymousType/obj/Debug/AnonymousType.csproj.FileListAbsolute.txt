@@ -1,0 +1,5 @@
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\AnonymousType\bin\Debug\AnonymousType.exe.config
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\AnonymousType\bin\Debug\AnonymousType.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\AnonymousType\bin\Debug\AnonymousType.pdb
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\AnonymousType\obj\Debug\AnonymousType.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\AnonymousType\obj\Debug\AnonymousType.pdb

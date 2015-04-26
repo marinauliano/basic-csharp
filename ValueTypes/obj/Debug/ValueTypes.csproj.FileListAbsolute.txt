@@ -1,0 +1,5 @@
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ValueTypes\bin\Debug\ValueTypes.exe.config
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ValueTypes\bin\Debug\ValueTypes.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ValueTypes\bin\Debug\ValueTypes.pdb
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ValueTypes\obj\Debug\ValueTypes.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\ValueTypes\obj\Debug\ValueTypes.pdb

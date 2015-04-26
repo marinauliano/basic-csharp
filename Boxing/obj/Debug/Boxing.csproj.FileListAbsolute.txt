@@ -1,0 +1,5 @@
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Boxing\bin\Debug\Boxing.exe.config
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Boxing\bin\Debug\Boxing.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Boxing\bin\Debug\Boxing.pdb
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Boxing\obj\Debug\Boxing.exe
+C:\Cursos\C# Iniciante\HelloWord\HelloWord\Boxing\obj\Debug\Boxing.pdb
